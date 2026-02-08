@@ -52,6 +52,6 @@ Clone the Repository: https://github.com/MoriartyPuth/CASB-Security-Sentinel
 
 Install Dependencies: pip install streamlit pandas plotly fpdf2 streamlit-autorefresh
 
-## 📊 Vizualization
+## 🖥️ Dashboard Preview
 
 <img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/1890983b-41ba-4722-9321-f33e70469535" />
